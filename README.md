@@ -1,2 +1,3 @@
-# plasmawallpapers
-Plasma wallpapers
+# Plasma wallpapers
+
+Light and dark Plasma wallpapers.
